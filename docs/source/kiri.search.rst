@@ -1,7 +1,10 @@
-kiri.search
+kiri.search package
 ===================
 
-kiri.search.documents
+Submodules
+----------
+
+kiri.search.documents module
 ----------------------------
 
 .. automodule:: kiri.search.documents
@@ -9,7 +12,7 @@ kiri.search.documents
    :undoc-members:
    :show-inheritance:
 
-kiri.search.search
+kiri.search.search module
 -------------------------
 
 .. automodule:: kiri.search.search

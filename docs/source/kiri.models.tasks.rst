@@ -1,7 +1,10 @@
-kiri.models.tasks
+kiri.models.tasks package
 =========================
 
-kiri.models.tasks.base
+Submodules
+----------
+
+kiri.models.tasks.base module
 -----------------------------
 
 .. automodule:: kiri.models.tasks.base
@@ -9,7 +12,7 @@ kiri.models.tasks.base
    :undoc-members:
    :show-inheritance:
 
-kiri.models.tasks.classification
+kiri.models.tasks.classification module
 ---------------------------------------
 
 .. automodule:: kiri.models.tasks.classification
@@ -17,7 +20,7 @@ kiri.models.tasks.classification
    :undoc-members:
    :show-inheritance:
 
-kiri.models.tasks.emotion
+kiri.models.tasks.emotion module
 --------------------------------
 
 .. automodule:: kiri.models.tasks.emotion
@@ -25,7 +28,7 @@ kiri.models.tasks.emotion
    :undoc-members:
    :show-inheritance:
 
-kiri.models.tasks.generation
+kiri.models.tasks.generation module
 -----------------------------------
 
 .. automodule:: kiri.models.tasks.generation
@@ -33,7 +36,7 @@ kiri.models.tasks.generation
    :undoc-members:
    :show-inheritance:
 
-kiri.models.tasks.qa
+kiri.models.tasks.qa module
 ---------------------------
 
 .. automodule:: kiri.models.tasks.qa
@@ -41,7 +44,7 @@ kiri.models.tasks.qa
    :undoc-members:
    :show-inheritance:
 
-kiri.models.tasks.summarisation
+kiri.models.tasks.summarisation module
 --------------------------------------
 
 .. automodule:: kiri.models.tasks.summarisation
@@ -49,7 +52,7 @@ kiri.models.tasks.summarisation
    :undoc-members:
    :show-inheritance:
 
-kiri.models.tasks.vectorisation
+kiri.models.tasks.vectorisation module
 --------------------------------------
 
 .. automodule:: kiri.models.tasks.vectorisation
