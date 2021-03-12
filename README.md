@@ -1,7 +1,7 @@
 <h1 align="center">Kiri Search</h1>
 
 <p align="center">
-   <a href="https://pypi.org/project/kiri/"><img src="https://img.shields.io/pypi/v/kiri"/></a> <img src="https://img.shields.io/pypi/pyversions/kiri"/> <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
+   <a href="https://pypi.org/project/kirisearch/"><img src="https://img.shields.io/pypi/v/kirisearch"/></a> <img src="https://img.shields.io/pypi/pyversions/kirisearch"/> <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
 </p>
 
 <p align="center">
